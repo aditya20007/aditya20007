@@ -1,14 +1,14 @@
 <!-- ================= HERO SECTION ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Aditya%20Singh&fontSize=60&fontAlignY=40&desc=Data%20Analytics%20Student%20%7C%20Aspiring%20Data%20Scientist&descAlignY=55&color=0:0EA5E9,100:2563EB" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=270&text=Aditya%20Singh&fontSize=62&fontAlignY=40&desc=Data%20Analytics%20%7C%20Data%20Science%20Intern%20Aspirant&descAlignY=58&color=0:0EA5E9,100:2563EB&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Turning+Raw+Data+Into+Actionable+Insights;Python+%7C+SQL+%7C+Machine+Learning;Open+to+Data+Science+%26+Analytics+Internships" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=25&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Turning+Raw+Data+Into+Actionable+Insights;Python+%7C+SQL+%7C+Data+Analytics+%7C+Machine+Learning;Open+to+Data+Science+%26+Analytics+Internships" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284126-5a8c56cc-3b1c-4a2d-aeb5-ef41b27b0f89.gif" width="420"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284126-5a8c56cc-3b1c-4a2d-aeb5-ef41b27b0f89.gif" width="430"/>
 </p>
 
 ---
@@ -16,12 +16,12 @@
 ## 👨‍🎓 About Me
 
 🎓 **2nd-Year B.Sc. Data Analytics Student at IIT Patna**  
-📊 Passionate about **Data Science, Analytics, and ML-driven decision making**  
-🐍 Comfortable with **Python, SQL, EDA, and predictive modeling**  
-📈 I enjoy finding **patterns in data** and converting them into **business insights**  
+📊 Focused on **Data Analytics, Data Science & ML-based insights**  
+🐍 Strong in **Python, SQL, EDA, and data-driven problem solving**  
+📈 I enjoy extracting **patterns, trends, and business meaning** from data  
 🎯 **Actively seeking Data Science / Data Analytics Internship opportunities**
 
-> I believe good analytics is not about complex models — it’s about **clear thinking and meaningful impact**.
+> I believe impactful analytics is not about complexity — it’s about **clarity, logic, and decisions**.
 
 ---
 
@@ -29,19 +29,19 @@
 
 <div align="center">
 
-| Skill Area | What I Can Do |
-|----------|---------------|
-| 📊 Data Analysis | Clean, explore, and interpret real-world datasets |
+| Area | Strength |
+|-----|---------|
+| 📊 Data Analytics | Cleaning, EDA, insights, KPI analysis |
 | 🐍 Python | Pandas, NumPy, Matplotlib, Seaborn |
 | 🗃️ SQL | Joins, Subqueries, Window Functions |
-| 🤖 ML | Regression, Classification, Model Evaluation |
-| 📈 Visualization | Tableau, Power BI, Insightful Dashboards |
+| 🤖 ML | Regression, Classification, Evaluation |
+| 📈 BI Tools | Power BI, Tableau, Excel dashboards |
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 ### 👨‍💻 Programming & Web
 <p align="center">
@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white"/>
+  <b>SQL</b> · Joins · Subqueries · Window Functions
 </p>
 
 ---
@@ -80,7 +80,7 @@
 ### 🤖 Machine Learning & AI
 <p align="center">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-8B5CF6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG-Conceptual%20Understanding-8B5CF6?style=flat-square"/>
 </p>
 
 ---
@@ -90,53 +90,62 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-
 ---
 
 ## 🌟 Featured Project
 
 ### 🎬 Netflix Customer Churn Prediction  
-**📍 Domain:** Subscription Analytics  
-**🎯 Goal:** Predict customers likely to churn using ML
+**Domain:** Subscription Analytics  
+**Goal:** Predict customers likely to churn using ML  
 
-✨ **Highlights**
-- Performed **EDA** to uncover churn patterns  
+**Key Work**
+- Conducted **EDA** to identify churn drivers  
 - Built **classification models** using Scikit-learn  
-- Evaluated models with real business context  
-- Translated results into **retention insights**
+- Evaluated models with business context  
+- Delivered **actionable retention insights**
 
-🔗 **Project Repo:**  
+📌 **Outcome:** Enabled better understanding of churn behavior to support retention-focused decisions.
+
+🔗 **Repository:**  
 👉 https://github.com/aditya20007/Netflix-Churn-Prediction
-
-> This project reflects my ability to combine **data analysis, ML, and business understanding**.
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya20007&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya20007&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya20007&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya20007&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-_ _
+
+---
+
+## 🐍 Contribution Snake (Animated)
+<p align="center">
+  <img src="https://github.com/aditya20007/aditya20007/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
 
 ## 🏆 Growth & Learning
 
-🌱 Building strong fundamentals in **statistics & ML**  
+🌱 Strengthening **Statistics & Machine Learning foundations**  
 📚 Practicing **SQL & analytics interview problems**  
-🚀 Actively developing industry-relevant projects  
+🚀 Building **real-world, industry-relevant projects**
 
 ---
 
 ## 🌐 Let’s Connect
 
 <p align="center">
-  <a href="//https://www.linkedin.com/in/aditya-singh-bab941258/">
+  <a href="https://www.linkedin.com/in/aditya-singh-bab941258">
     <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Singh-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto: singhadityakumar566@gmail.com">
+  <a href="mailto:singhadityakumar566@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
@@ -144,8 +153,7 @@ _ _
 ---
 
 ## 💭 Philosophy
-
-> “In God we trust. All others must bring data.” — W. Edwards Deming
+> “Without data, you're just another person with an opinion.”
 
 ---
 
