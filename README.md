@@ -101,10 +101,10 @@
 ## 🌐 Connect With Me (LinkedIn-Aligned)
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/aditya-singh-bab941258">
     <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Singh-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto: singhadityakumar566@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
