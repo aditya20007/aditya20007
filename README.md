@@ -21,7 +21,7 @@
 
 ---
 
-## 🧠 Core Skills (Internship-Focused)
+## 🧠 Core Skills 
 
 ### 🔹 Programming & Data Handling
 - Python (Pandas, NumPy)
@@ -57,7 +57,7 @@
 
 ---
 
-## 📌 Featured Project (Authentic & Resume-Matched)
+## 📌 Featured Project 
 
 ### 🎬 Netflix Customer Churn Prediction
 📍 **Domain:** Subscription Analytics  
@@ -98,7 +98,7 @@
 
 ---
 
-## 🌐 Connect With Me (LinkedIn-Aligned)
+## 🌐 Connect With Me 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aditya-singh-bab941258">
