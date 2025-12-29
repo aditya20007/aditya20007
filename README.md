@@ -113,20 +113,20 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya20007&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya20007&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya20007&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya20007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Aditya20007&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake (Animated)
+
+## 🐍 Contribution Activity
+
 <p align="center">
-  <img src="https://github.com/aditya20007/aditya20007/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Aditya20007/Aditya20007/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
