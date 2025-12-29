@@ -78,15 +78,14 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya20007&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya20007&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya20007&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya20007&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya20007&layout=compact&theme=transparent&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya20007&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
----
+_ _
 
 ## 🏆 Growth & Learning
 
