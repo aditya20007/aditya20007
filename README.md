@@ -1,44 +1,43 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ================= HERO SECTION ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Aditya+Singh+%F0%9F%91%8B;Data+Analytics+Student+at+IIT+Patna;Aspiring+Data+Scientist+%7C+ML+Enthusiast;Open+to+Data+Science+%26+Analytics+Internships" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Aditya%20Singh&fontSize=60&fontAlignY=40&desc=Data%20Analytics%20Student%20%7C%20Aspiring%20Data%20Scientist&descAlignY=55&color=0:0EA5E9,100:2563EB" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-3bb8c7b8-3d66-4b5c-8a9a-5c7f2a6e44c2.gif" width="500"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Turning+Raw+Data+Into+Actionable+Insights;Python+%7C+SQL+%7C+Machine+Learning;Open+to+Data+Science+%26+Analytics+Internships" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284126-5a8c56cc-3b1c-4a2d-aeb5-ef41b27b0f89.gif" width="420"/>
 </p>
 
 ---
 
-## 👨‍🎓 About Me 
+## 👨‍🎓 About Me
 
 🎓 **2nd-Year B.Sc. Data Analytics Student at IIT Patna**  
-📊 Strong foundation in **Data Analysis, Statistics, and Machine Learning**  
-🐍 Skilled in **Python, SQL, Data Visualization, and Predictive Modeling**  
-📈 I enjoy converting **raw, messy data into actionable business insights**  
+📊 Passionate about **Data Science, Analytics, and ML-driven decision making**  
+🐍 Comfortable with **Python, SQL, EDA, and predictive modeling**  
+📈 I enjoy finding **patterns in data** and converting them into **business insights**  
 🎯 **Actively seeking Data Science / Data Analytics Internship opportunities**
 
-> 💡 Career Goal: Build data-driven solutions that solve real-world business problems using analytics and machine learning.
+> I believe good analytics is not about complex models — it’s about **clear thinking and meaningful impact**.
 
 ---
 
-## 🧠 Core Skills 
+## 🧠 What I Bring 
 
-### 🔹 Programming & Data Handling
-- Python (Pandas, NumPy)
-- SQL (Joins, Subqueries, Window Functions)
-- Data Cleaning & Feature Engineering
+<div align="center">
 
-### 🔹 Data Analysis & Visualization
-- Exploratory Data Analysis (EDA)
-- Tableau, Power BI
-- Matplotlib, Seaborn
-- KPI & Dashboard Design
+| Skill Area | What I Can Do |
+|----------|---------------|
+| 📊 Data Analysis | Clean, explore, and interpret real-world datasets |
+| 🐍 Python | Pandas, NumPy, Matplotlib, Seaborn |
+| 🗃️ SQL | Joins, Subqueries, Window Functions |
+| 🤖 ML | Regression, Classification, Model Evaluation |
+| 📈 Visualization | Tableau, Power BI, Insightful Dashboards |
 
-### 🔹 Machine Learning
-- Supervised Learning (Regression, Classification)
-- Model Evaluation & Validation
-- Scikit-learn
-- Statistics for Data Science
+</div>
 
 ---
 
@@ -49,59 +48,58 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
 </p>
 
 ---
 
-## 📌 Featured Project 
+## 🌟 Featured Project
 
-### 🎬 Netflix Customer Churn Prediction
-📍 **Domain:** Subscription Analytics  
-📍 **Objective:** Predict customer churn using machine learning  
+### 🎬 Netflix Customer Churn Prediction  
+**📍 Domain:** Subscription Analytics  
+**🎯 Goal:** Predict customers likely to churn using ML
 
-**What I did:**
-- Cleaned and preprocessed raw customer data  
-- Performed EDA to identify churn-driving patterns  
-- Built and evaluated ML classification models  
-- Improved business understanding of retention risks  
+✨ **Highlights**
+- Performed **EDA** to uncover churn patterns  
+- Built **classification models** using Scikit-learn  
+- Evaluated models with real business context  
+- Translated results into **retention insights**
 
-🔗 **GitHub Repo:**  
+🔗 **Project Repo:**  
 👉 https://github.com/aditya20007/Netflix-Churn-Prediction
 
-> ✔ This project demonstrates **EDA, ML, and business thinking** — exactly what internship recruiters look for.
+> This project reflects my ability to combine **data analysis, ML, and business understanding**.
 
 ---
 
-## 📊 GitHub Activity & Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya20007&show_icons=true&theme=react&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya20007&theme=react&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya20007&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditya20007&theme=transparent&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya20007&layout=compact&theme=react&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya20007&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 Achievements & Learning
+## 🏆 Growth & Learning
 
-- 📌 Academic training in **Data Analytics at IIT Patna**
-- 📌 Hands-on experience with **real-world datasets**
-- 📌 Strong problem-solving and analytical mindset
-- 📌 Continuously improving through projects & practice
+🌱 Building strong fundamentals in **statistics & ML**  
+📚 Practicing **SQL & analytics interview problems**  
+🚀 Actively developing industry-relevant projects  
 
 ---
 
-## 🌐 Connect With Me 
+## 🌐 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-singh-bab941258">
+  <a href="//https://www.linkedin.com/in/aditya-singh-bab941258/">
     <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Singh-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto: singhadityakumar566@gmail.com">
@@ -111,18 +109,12 @@
 
 ---
 
-## 📚 Currently Learning
-- Advanced Machine Learning Algorithms  
-- Business Analytics Case Studies  
-- SQL Optimization & Interview Problems  
+## 💭 Philosophy
 
----
-
-## 💬 Quote I Believe In
-> “Data beats emotions.” — Sean Rad  
+> “In God we trust. All others must bring data.” — W. Edwards Deming
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2563EB,100:0EA5E9"/>
 </p>
