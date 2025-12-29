@@ -43,16 +43,53 @@
 
 ## 🛠️ Tech Stack
 
+### 👨‍💻 Programming & Web
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css" />
+</p>
+
+---
+
+### 🗄️ Databases & Querying
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+### 📊 Data Analysis & Visualization
+<p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
 </p>
+
+---
+
+### 🤖 Machine Learning & AI
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-8B5CF6?style=flat-square"/>
+</p>
+
+---
+
+### ⚙️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
 
 ---
 
