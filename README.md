@@ -113,23 +113,15 @@
 
 ## 📊 GitHub Analytics
 
-
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya20007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aditya20007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
   <img src="https://streak-stats.demolab.com?user=Aditya20007&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
----
-
-
-## 🐍 Contribution Activity
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Aditya20007/Aditya20007/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya20007&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
 
 ## 🏆 Growth & Learning
 
